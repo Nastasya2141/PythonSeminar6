@@ -39,6 +39,6 @@ def zadacha3():
             if check_numbers(x, y):
              print (f' {x}/ {y}')
 
-
-zadacha3()
-
+# zadacha1()
+# zadacha2()
+# zadacha3()
